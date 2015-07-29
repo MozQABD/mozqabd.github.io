@@ -1,0 +1,143 @@
+<!doctype html>
+<html class="windows no-js" lang="en-US" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>MozillaQA Bangladesh</title>
+
+  <link rel="stylesheet" media="screen,projection,tv" href="css/styles.css" />
+  <link rel="stylesheet" media="screen,projection,tv" href="css/grid.css" />
+  <link href="css/jquery.bxslider.css" rel="stylesheet" />
+
+  <!--[if lte IE 8]>
+        <script src="js/libs/html5shiv.js"></script>
+        <![endif]-->
+
+  <link rel="shortcut icon" href="/img/favicon.ico">
+
+  <meta name="description" content="MozillaQA Bangladesh is part of the global community of Mozilla Foundation, founded to manifest the state of Mozilla community in Bangladesh." />
+
+  <script src="js/libs/jquery-2.0.3.min.js"></script>
+  <script src="js/libs/modernizr.custom.26887.js"></script>
+  <script src="js/base/site.js"></script>
+  <script src="js/base/site.js"></script>
+  <script src="js/data-writer.js"></script>
+
+</head>
+
+<body id="home" class="html-ltr sky">
+  <div id="strings" data-close='Close' data-share='Share'></div>
+  <div id="outer-wrapper">
+    <div id="wrapper">
+
+      <header id="masthead">
+        <a href="http://www.mozilla.org/" id="tabzilla">Mozilla</a>
+      </header>
+
+      <hgroup id="main-feature" class="small">
+        <h1><b>Mozilla QA</b> Bangladesh</h1>
+      </hgroup>
+
+      <div id="main-content">
+
+        <div class="grid-container">
+          <div class="cotm hover grid-33">
+            <br />
+            <h5><b>Contributor of The Month</b></h5>
+
+          </div>
+          <div class="big-news hover grid-65">
+
+          </div>
+        </div>
+        <br />
+        <div class="grid-container">
+          <div class="block1 hover grid-100">
+
+          </div>
+
+        </div>
+        <br />
+        <div class="grid-container">
+          <div class="block2 hover grid-33">
+
+          </div>
+          <div class="block3 hover grid-33">
+
+          </div>
+          <div class="block4 hover grid-33">
+
+          </div>
+
+        </div>
+        <br /><br />
+        <h3 class="news-title">Our Contributors</h3>
+        <div id="contributor-elem" class="grid-container">
+
+        </div>
+        <button class="MoreButton">More...</button>
+      </div>
+
+
+    </div>
+    <!-- close #wrapper -->
+
+    <footer id="colophon" class="">
+      <div class="row">
+
+        <div class="footer-logo">
+          <!-- <a href="/"><img src="/img/sandstone/footer-mozilla.png" alt="mozilla"> <span class="footer-logo-india">India</span></a> -->
+          <p>Have feedback? <a href="https://github.com/mozillabd/homepage/issues">File a bug</a>.
+        </div>
+
+        <div class="footer-license">
+          <p>
+          </p>
+        </div>
+        <ul class="footer-nav">
+          <li><a href="http://www.mozilla.org/about/">About</a></li>
+          <li><a href="http://www.mozilla.org/mission/">Mission</a></li>
+          <li><a href="http://mozillabd.org/blog">Blog</a></li>
+        </ul>
+        <ul class="footer-nav">
+          <li><a href="https://twitter.com/MozillaBD">Twitter</a></li>
+          <li><a href="https://www.facebook.com/groups/MozillaBD/">Facebook</a></li>
+          <li><a href="https://plus.google.com/115718360403139005127/">Google+</a></li>
+        </ul>
+
+      </div>
+    </footer>
+
+  </div>
+  <!-- close #outer-wrapper -->
+
+  <!--[if IE 9]>
+        <script src="/js/libs/matchMedia.js"></script>
+        <![endif]-->
+
+
+  <script src="js/base/nav-main-resp.js"></script>
+  <script src="js/mozorg-resp-min.js"></script>
+  <script src="js/tabzilla/tabzilla.js"></script>
+  <<script type="text/javascript">
+
+  document.querySelector('.MoreButton').addEventListener('click', function(){
+    if (document.querySelector('#contributor-elem').style.maxHeight == "") {
+
+      document.querySelector('#contributor-elem').style.maxHeight = "2000px";
+      document.querySelector('.MoreButton').textContent = "Less..."
+
+    } else {
+
+      document.querySelector('#contributor-elem').style.maxHeight = "";
+      document.querySelector('.MoreButton').textContent = "More..."
+
+    }
+  });
+
+  </script>
+</body>
+
+</html>
