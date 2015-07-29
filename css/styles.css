@@ -6776,7 +6776,7 @@ a.go:after {
   padding: 6px;
 }
 #contributor-elem {
-  max-height: 332px;
+  max-height: 510px;
   overflow: hidden;
   transition: max-height 1s ease-out;
 }
