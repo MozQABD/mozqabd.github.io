@@ -2,19 +2,19 @@
 "COTM": {
   "Name": "Nazir Ahmed Sabbir",
   "Img": "nasb.jpg",
-  "Details": "Nazir Ahmed Sabbir is an awesome Contributor from Bangladesh. He is just a College student but passionate about Mozilla. His enthusiasm inspires us and rest of the Community to contribute more. He has done an awesome job in all Bug Days and Test Days. Hence, we are proud to say that, Sabbir is the Contributor of the Month for October, 2015. More about him can be read from here - http://blog.mozillabd.org/contributor-month-october "
+  "Details": "Nazir Ahmed Sabbir is just a College student from Bangladesh but passionate about Mozilla. His enthusiasm inspires us and rest of the Community. Hence, we are recognizing Sabbir as the Contributor of the Month for October. Read more from here - http://blog.mozillabd.org/contributor-month-october "
 },
 "LatestNews": {
-  "Title": "Latest News From Mozilla QA Bangladesh",
-  "Details": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "Title": "Upcoming Events of Mozilla QA Bangladesh",
+  "Details": "Friday, October 30th, we are organizing Firefox 43.0 Aurora Testday. We will be focusing our testing on the new Add-ons Signing feature, and last but not least, Search Suggestions and Unified Autocomplete.This event will be going for whole day in Online. No previous experience is needed to join our events. To participate, Just join our Facebook group (https://www.facebook.com/groups/mozqabd/ ), and give a shoutout that you want to join!"
 },
 "Block1": {
-  "Title": "What is MozillaQA?",
-  "Details": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+  "Title": "What is Mozilla QA?",
+  "Details": "For making the web open and for getting most of the benefit of the web, Mozilla has been working on several projects and products that help users over the Web. Mozilla is built by volunteers around the world who are working to make the web more better and move Mozilla’s mission forward! A part of Mozilla that helps to make an impact on the project, and on the web is: Mozilla QA!! Mozilla QA is guild of individuals united by a common passion to make the quality of the products Mozilla creates the best it can possibly be! What Mozilla QA do, is to ensure the same Quality in every feature and product Mozilla is giving to the users of the web that It has been giving for years! Before giving to the world, The Mozilla QA Team test the Quality of the product or the feature first, so people can get the best out of it!"
 },
 "Block2": {
   "Title": "Join Our Community Call",
-  "Details": "is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+  "Details": "Generally, We host Community calls in every 2 Weeks. Community Calls are the best way to get updated about our activities! We share all our activities and Upcoming updates in the call. To get updated, join our next community call"
 },
 "Block3": {
   "Title": "Help Test New Features",
